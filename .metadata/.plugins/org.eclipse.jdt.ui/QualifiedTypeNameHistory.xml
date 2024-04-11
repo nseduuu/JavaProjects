@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="br.com.construtora.model.Apartamento"/>
+    <fullyQualifiedTypeName name="br.com.construtora.model.Casa"/>
+    <fullyQualifiedTypeName name="br.com.primeiroexercicio.beans.Animal"/>
+    <fullyQualifiedTypeName name="br.com.primeiroexercicio.beans.Mamifero"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="br.com.empresa.beans.Funcionario"/>
+    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+    <fullyQualifiedTypeName name="br.com.etecconexaobr.model.Automovel"/>
+    <fullyQualifiedTypeName name="br.com.etecconexaobr.model.Carro"/>
+    <fullyQualifiedTypeName name="br.com.etecconexaobr.dao.CarroDAO"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="br.com.fabricacalcado.conexao.Conexao"/>
+    <fullyQualifiedTypeName name="br.com.fabricacalcado.dao.ChineloDAO"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="br.com.fabricacalcado.model.Chinelo"/>
+    <fullyQualifiedTypeName name="br.com.fabricacalcado.dao.SapatoDAO"/>
+    <fullyQualifiedTypeName name="br.com.fabricacalcado.model.Sapato"/>
+</qualifiedTypeNameHistroy>
