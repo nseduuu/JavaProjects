@@ -18,4 +18,7 @@
     <fullyQualifiedTypeName name="br.com.fabricacalcado.model.Chinelo"/>
     <fullyQualifiedTypeName name="br.com.fabricacalcado.dao.SapatoDAO"/>
     <fullyQualifiedTypeName name="br.com.fabricacalcado.model.Sapato"/>
+    <fullyQualifiedTypeName name="model.Endereco"/>
+    <fullyQualifiedTypeName name="dao.EnderecoDAO"/>
+    <fullyQualifiedTypeName name="conexao.Conexao"/>
 </qualifiedTypeNameHistroy>
