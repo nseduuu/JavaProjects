@@ -83,6 +83,7 @@ public class Endereco {
 PessoaDAO
 
 public String inserir(Pessoa pessoa) {
+
 		String sql = "insert into pessoa(nome, cpf, idade, cep) values (?, ?, ?, ?)";
 		try {
 			PreparedStatement ps = getCon().prepareStatement(sql);
@@ -98,11 +99,13 @@ public String inserir(Pessoa pessoa) {
 		} catch (SQLException e) {
 			return e.getMessage();
 		}
+  
 	}
 
 EnderecoDao
 
 public String inserir(Endereco endereco) {
+
 		String sql = "insert into endereco(cpfPessoa, cep, nomeRua) values (?, ?, ?)";
 		try {
 			PreparedStatement ps = getCon().prepareStatement(sql);
